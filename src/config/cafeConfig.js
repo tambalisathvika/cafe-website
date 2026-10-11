@@ -4,7 +4,7 @@
  * Developer & Owner Credentials:
  * Name: Tambali Sathvika
  * Email: tambalisathvika@gmail.com
- * Phone: +91 83475 37599
+ * Phone: +91 82475 37599
  */
 
 export const cafeConfig = {
@@ -22,9 +22,9 @@ export const cafeConfig = {
   creator: {
     name: "Tambali Sathvika",
     email: "tambalisathvika@gmail.com",
-    phone: "+91 83475 37599",
-    displayPhone: "+91 83475 37599",
-    whatsappNumber: "918347537599",
+    phone: "+91 82475 37599",
+    displayPhone: "+91 82475 37599",
+    whatsappNumber: "918247537599",
     github: "https://github.com/tambalisathvika",
     linkedin: "https://www.linkedin.com/in/tambali-sathvika",
     role: "Lead Full-Stack Web Designer & Developer",
@@ -36,8 +36,8 @@ export const cafeConfig = {
     addressPlaceholder: "14 Bloom Garden Road, Indiranagar, Bengaluru, KA 560038",
     displayAddress: "14 Bloom Garden Road, Indiranagar, Bengaluru",
     landmark: "Just off 100 Feet Road, opposite Bloom Park",
-    phonePlaceholder: "+91 83475 37599",
-    displayPhone: "+91 83475 37599",
+    phonePlaceholder: "+91 82475 37599",
+    displayPhone: "+91 82475 37599",
     email: "tambalisathvika@gmail.com",
     ownerName: "Tambali Sathvika",
     directionsUrl: "https://www.google.com/maps/search/?api=1&query=Indiranagar+Bengaluru+Cafe",
@@ -45,7 +45,7 @@ export const cafeConfig = {
 
   // WhatsApp Order & Direct Inquiries
   whatsapp: {
-    number: "918347537599", // Tambali Sathvika's WhatsApp constant
+    number: "918247537599", // Tambali Sathvika's WhatsApp constant
     isDemoPlaceholder: false, // Directly opens WhatsApp Web / App
     defaultMessage: "Hello Sathvika! I would like to place an order at Bean & Bloom Café / discuss a web design project.",
   },
