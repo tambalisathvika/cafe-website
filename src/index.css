@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background-color: #FDFBF7;
+    color: #2A1B14;
+    overflow-x: hidden;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #F2EBDC;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #8F664F;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #54392B;
+  }
+}
+
+/* Subtle image load transition */
+img {
+  transition: opacity 0.3s ease-in-out;
+}
