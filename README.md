@@ -86,7 +86,7 @@ All business information, menu items, prices, promo codes, and seating zones are
 ### 1. Updating the WhatsApp Phone Number
 ```javascript
 whatsapp: {
-  number: "919876543210", // Put client's real WhatsApp number with country code
+  number: "918347537599", // Put client's real WhatsApp number with country code
   isDemoPlaceholder: false, // Set to false for live production
 }
 ```
